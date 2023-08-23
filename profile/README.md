@@ -1,6 +1,6 @@
 ## 日照一中AI社
 编码未来，创新当下 Coding the Future, Innovating Today   
-官网: https://aiwill.xyz
+官网: https://rzyzai.tech
 
 <!--
 
